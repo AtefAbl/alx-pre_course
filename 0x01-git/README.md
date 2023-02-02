@@ -1,1 +1,1 @@
-My second readme chaned
+My second readme changed
